@@ -11,7 +11,7 @@ url: "https://github.com/pyghassen"
 order:
   - [interests, Research Interests]
   - [education, Education]
-  - [research, Research Experience]
+  # - [research, Research Experience]
   - [teaching, Teaching Experience]
   - [publications, Publications]
   - [industry, Industry Experience]
@@ -28,59 +28,59 @@ education:
     degree: Bachelor's Degree, Computer Science
     # dates: August 2014--Present
 
-# research:
-#   - place: Carnegie Mellon University
-#     location: Pittsburgh, Pennsylvania
-#     title: Research Assistant
-#     advisor: Dr. Mahadev Satyanarayanan
-#     dates: August 2014--Present
-#     details:
-#       - '{\bf Research Area}: Mobile computing and distributed systems.'
-#   - place: Magnum Research Group
-#     location: Blacksburg, Virginia
-#     title: Undergraduate Research Assistant
-#     advisor: Dr. Jules White
-#     dates: May 2012--May 2014
-#     details:
-#       - '{\bf Research Area}: Mobile computing, cyber-physical systems, and security.'
-#       - Android {\bf malware detection research} resulting in
-#         primary authorship on a conference publication.
-#         The current {\bf Actor-based Scala} implementation obtains
-#         run-time feature vectors for machine learning.
-#       - Modified the {\bf Android source} to provide non-standard logging
-#         information for dynamic malware analysis.
-#       - Developed {\bf VC\#} and {\bf Python} programs for a pilot study on
-#         manufacturing cyber-physical security.
-#       - Assisted {\bf C++} and {\bf Make} development in {\bf Linux} for a
-#         deployment optimization framework.
-#   - place: Virginia Tech, Computer Science
-#     location: Blacksburg, Virginia
-#     title: Undergraduate Research Assistant
-#     advisor: Dr. Layne Watson
-#     dates: January 2013--May 2014
-#     details:
-#       - '{\bf Research Area}: Scientific computing.'
-#       - Algorithm development for stochastic optimization using quasi-Newton
-#         methods for {\bf parameter estimation} in
-#         {\bf Fortran 95} and {\bf OpenMP}.
-#       - Bioinformatics research on yeast cell modeling using
-#         {\bf Fortran 95}, {\bf C++}, and {\bf Matlab}.
+research:
+  - place: Carnegie Mellon University
+    location: Pittsburgh, Pennsylvania
+    title: Research Assistant
+    advisor: Dr. Mahadev Satyanarayanan
+    dates: August 2014--Present
+    details:
+      - '{\bf Research Area}: Mobile computing and distributed systems.'
+  - place: Magnum Research Group
+    location: Blacksburg, Virginia
+    title: Undergraduate Research Assistant
+    advisor: Dr. Jules White
+    dates: May 2012--May 2014
+    details:
+      - '{\bf Research Area}: Mobile computing, cyber-physical systems, and security.'
+      - Android {\bf malware detection research} resulting in
+        primary authorship on a conference publication.
+        The current {\bf Actor-based Scala} implementation obtains
+        run-time feature vectors for machine learning.
+      - Modified the {\bf Android source} to provide non-standard logging
+        information for dynamic malware analysis.
+      - Developed {\bf VC\#} and {\bf Python} programs for a pilot study on
+        manufacturing cyber-physical security.
+      - Assisted {\bf C++} and {\bf Make} development in {\bf Linux} for a
+        deployment optimization framework.
+  - place: Virginia Tech, Computer Science
+    location: Blacksburg, Virginia
+    title: Undergraduate Research Assistant
+    advisor: Dr. Layne Watson
+    dates: January 2013--May 2014
+    details:
+      - '{\bf Research Area}: Scientific computing.'
+      - Algorithm development for stochastic optimization using quasi-Newton
+        methods for {\bf parameter estimation} in
+        {\bf Fortran 95} and {\bf OpenMP}.
+      - Bioinformatics research on yeast cell modeling using
+        {\bf Fortran 95}, {\bf C++}, and {\bf Matlab}.
 
-#   - place: Systems Software Research Group
-#     location: Blacksburg, Virginia
-#     title: Undergraduate Research Assistant
-#     advisor: Dr. Binoy Ravindran
-#     dates: November 2012--March 2014
-#     details:
-#       - '{\bf Research Area}: Compilers.'
-#       - Compiler research on a heterogenous system
-#         on automatic {\bf OpenMP} to {\bf CUDA}
-#         translation using {\bf C++} and the {\bf ROSE} compiler framework.
-#       - Polyhedral loop optimization research to restructure
-#         {\bf OpenCL} kernels for locality using {\bf LLVM} and {\bf Polly}.
-#       - '{\bf Scala} and {\bf Bash} development in {\bf Linux}.'
+  - place: Systems Software Research Group
+    location: Blacksburg, Virginia
+    title: Undergraduate Research Assistant
+    advisor: Dr. Binoy Ravindran
+    dates: November 2012--March 2014
+    details:
+      - '{\bf Research Area}: Compilers.'
+      - Compiler research on a heterogenous system
+        on automatic {\bf OpenMP} to {\bf CUDA}
+        translation using {\bf C++} and the {\bf ROSE} compiler framework.
+      - Polyhedral loop optimization research to restructure
+        {\bf OpenCL} kernels for locality using {\bf LLVM} and {\bf Polly}.
+      - '{\bf Scala} and {\bf Bash} development in {\bf Linux}.'
 
-Experience:
+industry:
   - place: Rosafi Holding
     location: Tunis, Tunisia
     title: Software Developer

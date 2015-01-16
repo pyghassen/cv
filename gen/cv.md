@@ -9,77 +9,28 @@ h1 {
 }
 </style>
 
-# brandon amos. vitæ.
+# Ghassen Telmoudi. vitæ.
 
 [PDF](/data/cv.pdf) &#124;
-[source](https://github.com/bamos/cv) &#124;
+[source](https://github.com/pyghassen/cv) &#124;
 [email](http://goo.gl/O4586Q) &#124;
-(540) 947--1238 &#124;
+(+216) 53 98 69 75 &#124;
 Generated January 16, 2015.
 
 # Research Interests
 
 
-Mobile computing; distributed systems; computer vision.
+Python; Django; RESTful APIs; Linux.
 
 # Education
 
 
 
-__<big>Carnegie Mellon University.</big>__  Ph.D. Student, Computer Science.
+__<big>ISET.</big>__  Bachelor's Degree, Computer Science.
 
-+ Pittsburgh, Pennsylvania
-&#124; August 2014-Present
++ 
+&#124; 
 
-__<big>Virginia Tech.</big>__  B.S., Computer Science, Honors Scholar.
-GPA: 3.99/4.00
-
-+ Blacksburg, Virginia
-&#124; August 2011-May 2014
-
-
-
-# Research Experience
-
-
-
-
-__<big>Carnegie Mellon University.</big>__  Research Assistant.
-
-+ Pittsburgh, Pennsylvania
-&#124; Advisor: Dr. Mahadev Satyanarayanan
-&#124; August 2014-Present
-+ **Research Area**: Mobile computing and distributed systems.
-
-__<big>Magnum Research Group.</big>__  Undergraduate Research Assistant.
-
-+ Blacksburg, Virginia
-&#124; Advisor: Dr. Jules White
-&#124; May 2012-May 2014
-+ **Research Area**: Mobile computing, cyber-physical systems, and security.
-+ Android **malware detection research** resulting in primary authorship on a conference publication. The current **Actor-based Scala** implementation obtains run-time feature vectors for machine learning.
-+ Modified the **Android source** to provide non-standard logging information for dynamic malware analysis.
-+ Developed **VC#** and **Python** programs for a pilot study on manufacturing cyber-physical security.
-+ Assisted **C++** and **Make** development in **Linux** for a deployment optimization framework.
-
-__<big>Virginia Tech, Computer Science.</big>__  Undergraduate Research Assistant.
-
-+ Blacksburg, Virginia
-&#124; Advisor: Dr. Layne Watson
-&#124; January 2013-May 2014
-+ **Research Area**: Scientific computing.
-+ Algorithm development for stochastic optimization using quasi-Newton methods for **parameter estimation** in **Fortran 95** and **OpenMP**.
-+ Bioinformatics research on yeast cell modeling using **Fortran 95**, **C++**, and **Matlab**.
-
-__<big>Systems Software Research Group.</big>__  Undergraduate Research Assistant.
-
-+ Blacksburg, Virginia
-&#124; Advisor: Dr. Binoy Ravindran
-&#124; November 2012-March 2014
-+ **Research Area**: Compilers.
-+ Compiler research on a heterogenous system on automatic **OpenMP** to **CUDA** translation using **C++** and the **ROSE** compiler framework.
-+ Polyhedral loop optimization research to restructure **OpenCL** kernels for locality using **LLVM** and **Polly**.
-+ **Scala** and **Bash** development in **Linux**.
 
 
 # Teaching Experience
@@ -131,10 +82,10 @@ Cyber-attacks?" <em>IEEE Security and Privacy Magazine</em>, to appear<br><br>
 
 
 
-__<big>Adobe Research.</big>__  Data Scientist Intern.
+__<big>Rosafi Holding.</big>__  Software Developer.
 
-+ San Jose, California
-&#124; May 2014-August 2014
++ Tunis, Tunisia
+&#124; February 2012-Present
 + **Research Area**: Distributed Systems
 + Built and released  Spindle, an open source web analytics processing engine with **Scala**, **Spark**, **Spray**, and **Parquet** on **HDFS**.
 + Spindle is available on GitHub at [http://github.com/adobe-research/spindle](http://github.com/adobe-research/spindle).
